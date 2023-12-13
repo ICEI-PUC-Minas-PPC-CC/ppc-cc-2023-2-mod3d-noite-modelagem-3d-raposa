@@ -10,4 +10,4 @@ Para resolver esse problema e garantir o acesso ao trabalho, optou-se por public
 
 Segue o link para o vídeo de apresentação. Espera-se que essa medida facilite o acesso ao material.
 
-[![Apresentação Final - Vídeo](https://img.youtube.com/vi/Fv2AqwS7c30/0.jpg)](https://www.youtube.com/watch?v=Fv2AqwS7c30)
+[![Apresentação Final - Vídeo](https://img.youtube.com/vi/JYmO5Qh6oAY/0.jpg)](https://www.youtube.com/watch?v=JYmO5Qh6oAY)
