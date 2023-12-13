@@ -1,0 +1,3 @@
+# Especificações do Projeto
+
+Este relatório detalha a especificação do nosso projeto, cujo desafio era criar uma animação. A dupla optou por desenvolver uma animação de uma raposa utilizando o software Blender. O projeto foi um processo abrangente e detalhado que começou com a modelagem da raposa a partir do zero. Após a modelagem, aplicamos textura à raposa para dar-lhe uma aparência realista. Em seguida, construímos um esqueleto que serviu como a base para os movimentos da raposa. Finalmente, animamos a raposa, dando vida à nossa criação. Este projeto demonstrou nossa habilidade em usar o Blender para criar uma animação complexa e visualmente atraente.
